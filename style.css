@@ -198,6 +198,7 @@ hr {
     margin-right: 2%;
     box-shadow: 4px 4px 8px gray;
     border-radius: 15px;
+    width: 50%;
 }
 
 .flooted-place img {
