@@ -5,6 +5,7 @@ body {
 
 .top-banner {
     background-image: url(images/top-bg.jpg);
+    background-repeat: no-repeat;
 }
 
 hr {
